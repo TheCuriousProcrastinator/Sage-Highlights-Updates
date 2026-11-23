@@ -1,8 +1,28 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Sage Highlights</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Mon, 23 Nov 2026 16:12:13 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Sage Highlights 0.2.2
+
+- Simpler Apple Books onboarding
+- Connect directly to the Apple Books data folder
+- Remember the Apple Books connection between launches
+- Full Disk Access is now a fallback rather than the default
+- Improved Apple Books access error reporting
+- First export folder picker opens in Documents
+- Previously selected export destinations remain remembered
+
+Permanent highlight deletion under Hardened Runtime remains unverified.
+]]></description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.2.2/Sage-Highlights-0.2.2.zip" length="3585009" type="application/octet-stream" sparkle:edSignature="EZ3SyyDiA2fPC8r82wGlyp92pJuZ4FdcbiBxXdEhzj+9GoXYTawB4aKseeg7oUtPjrL9LcU75L1jVQvdA89YCg=="/>
+        </item>
+    <item>
             <title>0.2.1</title>
             <pubDate>Mon, 23 Nov 2026 14:53:47 -0500</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -21,6 +41,5 @@ The Apple Books permanent deletion helper has not been
 functionally verified under Hardened Runtime.
 ]]></description>
             <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.2.1/Sage-Highlights-0.2.1.zip" length="3597978" type="application/octet-stream" sparkle:edSignature="KFYjBTqicrMPS3she8oqxnT7eysz/TPgUXFZGhnqoaa+ObZJ2IsXPc1yfYte133HZK0gom50ZieDnRhBkcewAg=="/>
-        </item>
-    </channel>
+        </item></channel>
 </rss>
