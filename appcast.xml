@@ -3,6 +3,33 @@
     <channel>
         <title>Sage Highlights</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Tue, 24 Nov 2026 07:07:59 -0500</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown">## What's new
+
+- Import article highlights directly from Readeck.
+- Connect securely using your server URL and API token.
+- Browse imported Readeck highlights offline.
+- Reload and export Readeck independently.
+- Open original articles directly from Sage.
+- Readeck appears in navigation only when connected.
+- Redesigned onboarding with animated connection buttons.
+- Clearer connection instructions for each reading source.
+- Improved Apple Books folder selection.
+
+Known limitations:
+- Readeck connections currently require HTTPS.
+- Extended Readeck pagination and export edge cases require further testing.
+- Larger Kindle libraries requiring additional pagination are not yet supported.
+- Permanent Apple Books highlight deletion remains unavailable.
+</description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.4.0/Sage-Highlights-0.4.0.zip" length="3866212" type="application/octet-stream" sparkle:edSignature="sx46e4gr1k6y6LRXX3Z7OFl7T5XPUHKncldXD3OgQ0MHM86y5iXpf/asZGIIveXbP+J9dcGB7XVim9JdkDxXCw==" />
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Mon, 23 Nov 2026 20:46:11 -0500</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -25,7 +52,7 @@ Known limitations:
 </description>
             <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.3.0/Sage-Highlights-0.3.0.zip" length="3765634" type="application/octet-stream" sparkle:edSignature="y2Qc5+dCCDCo/gguG2oxQm+OuVNlnzBQql/ZByDCpPyr64jOPpkzyPUj3Guy1v9kZee4CO6HgmxbRIq4dy6AAQ==" />
         </item>
-    <item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Mon, 23 Nov 2026 16:12:13 -0500</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -46,7 +73,7 @@ Permanent highlight deletion under Hardened Runtime remains unverified.
 </description>
             <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.2.2/Sage-Highlights-0.2.2.zip" length="3585009" type="application/octet-stream" sparkle:edSignature="EZ3SyyDiA2fPC8r82wGlyp92pJuZ4FdcbiBxXdEhzj+9GoXYTawB4aKseeg7oUtPjrL9LcU75L1jVQvdA89YCg==" />
         </item>
-    <item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Mon, 23 Nov 2026 14:53:47 -0500</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -65,5 +92,6 @@ The Apple Books permanent deletion helper has not been
 functionally verified under Hardened Runtime.
 </description>
             <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.2.1/Sage-Highlights-0.2.1.zip" length="3597978" type="application/octet-stream" sparkle:edSignature="KFYjBTqicrMPS3she8oqxnT7eysz/TPgUXFZGhnqoaa+ObZJ2IsXPc1yfYte133HZK0gom50ZieDnRhBkcewAg==" />
-        </item></channel>
+        </item>
+    </channel>
 </rss>
