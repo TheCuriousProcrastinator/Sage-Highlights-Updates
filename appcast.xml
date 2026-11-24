@@ -3,6 +3,25 @@
     <channel>
         <title>Sage Highlights</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Tue, 24 Nov 2026 08:07:36 -0500</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown">Improved reading source management
+
+- Navigation shows only connected reading sources.
+- All appears only when two or more sources are connected.
+- Disconnect Apple Books, Kindle or Readeck directly from Settings.
+- Reconnect Apple Books and Kindle or edit Readeck connection details.
+- Confirmation before disconnecting a source.
+- Connection preferences persist across app restarts.
+- Original highlights and exported Markdown files remain untouched.
+</description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.4.2/Sage-Highlights-0.4.2.zip" length="3889320" type="application/octet-stream" sparkle:edSignature="tMQbRsamV1drVMDGNJfCTRY6wR3I6ZprXc9Ei5uowwEMJVDHHL0P/urB+XZwCPPI0cQjY6wo9N7yqaMUDBCYCA==" />
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Tue, 24 Nov 2026 07:17:56 -0500</pubDate>
             <sparkle:version>8</sparkle:version>
