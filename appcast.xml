@@ -1,14 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Sage Highlights</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 23 Nov 2026 20:46:11 -0500</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown">Sage Highlights 0.3.0
+
+- Import Kindle highlights and notes alongside Apple Books.
+- Browse, refresh and export each reading source independently.
+- Keep imported Kindle highlights available offline.
+- Cancel Kindle imports without replacing the existing library.
+- Enjoy redesigned Settings, Liquid Glass navigation and improved reading zoom.
+- Improved sidebar layout and export controls.
+
+Known limitations:
+- Kindle libraries requiring additional pagination are not yet supported.
+- Some highlights may be unavailable through Amazon Kindle Notebook.
+- Permanent Apple Books highlight deletion is currently unavailable.
+</description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.3.0/Sage-Highlights-0.3.0.zip" length="3765634" type="application/octet-stream" sparkle:edSignature="y2Qc5+dCCDCo/gguG2oxQm+OuVNlnzBQql/ZByDCpPyr64jOPpkzyPUj3Guy1v9kZee4CO6HgmxbRIq4dy6AAQ==" />
+        </item>
+    <item>
             <title>0.2.2</title>
             <pubDate>Mon, 23 Nov 2026 16:12:13 -0500</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Sage Highlights 0.2.2
+            <description sparkle:format="markdown">Sage Highlights 0.2.2
 
 - Simpler Apple Books onboarding
 - Connect directly to the Apple Books data folder
@@ -19,8 +43,8 @@
 - Previously selected export destinations remain remembered
 
 Permanent highlight deletion under Hardened Runtime remains unverified.
-]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.2.2/Sage-Highlights-0.2.2.zip" length="3585009" type="application/octet-stream" sparkle:edSignature="EZ3SyyDiA2fPC8r82wGlyp92pJuZ4FdcbiBxXdEhzj+9GoXYTawB4aKseeg7oUtPjrL9LcU75L1jVQvdA89YCg=="/>
+</description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.2.2/Sage-Highlights-0.2.2.zip" length="3585009" type="application/octet-stream" sparkle:edSignature="EZ3SyyDiA2fPC8r82wGlyp92pJuZ4FdcbiBxXdEhzj+9GoXYTawB4aKseeg7oUtPjrL9LcU75L1jVQvdA89YCg==" />
         </item>
     <item>
             <title>0.2.1</title>
@@ -29,7 +53,7 @@ Permanent highlight deletion under Hardened Runtime remains unverified.
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Sage Highlights 0.2.1
+            <description sparkle:format="markdown">Sage Highlights 0.2.1
 
 - Added Sparkle automatic updates
 - Added Check for Updates in the application menu
@@ -39,7 +63,7 @@ Permanent highlight deletion under Hardened Runtime remains unverified.
 
 The Apple Books permanent deletion helper has not been
 functionally verified under Hardened Runtime.
-]]></description>
-            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.2.1/Sage-Highlights-0.2.1.zip" length="3597978" type="application/octet-stream" sparkle:edSignature="KFYjBTqicrMPS3she8oqxnT7eysz/TPgUXFZGhnqoaa+ObZJ2IsXPc1yfYte133HZK0gom50ZieDnRhBkcewAg=="/>
+</description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.2.1/Sage-Highlights-0.2.1.zip" length="3597978" type="application/octet-stream" sparkle:edSignature="KFYjBTqicrMPS3she8oqxnT7eysz/TPgUXFZGhnqoaa+ObZJ2IsXPc1yfYte133HZK0gom50ZieDnRhBkcewAg==" />
         </item></channel>
 </rss>
