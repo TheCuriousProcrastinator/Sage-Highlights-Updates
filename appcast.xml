@@ -3,6 +3,22 @@
     <channel>
         <title>Sage Highlights</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Tue, 24 Nov 2026 07:17:56 -0500</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown">Settings improvements
+
+- Seamless Settings title bar matching the selected appearance.
+- Removed the visual divider beneath the title bar.
+- Updated the privacy footer to cover all reading sources.
+- Preserved native window controls and behavior.
+</description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.4.1/Sage-Highlights-0.4.1.zip" length="3870090" type="application/octet-stream" sparkle:edSignature="YjWdbTdSOy/Dy+AkC6JhVGc2IjBc8E3TB3u6Z5vmopTdKd09LqNMBIvf3j6ZPThs0Z5EhJHEE7OPXOEmZ78eCg==" />
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Tue, 24 Nov 2026 07:07:59 -0500</pubDate>
             <sparkle:version>7</sparkle:version>
