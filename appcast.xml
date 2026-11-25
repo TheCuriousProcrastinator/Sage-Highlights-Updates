@@ -3,6 +3,29 @@
     <channel>
         <title>Sage Highlights</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Wed, 25 Nov 2026 14:51:34 -0500</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown">## What's new
+
+- Search across Apple Books, Kindle and Readeck highlights and notes.
+- Search book titles and authors alongside highlight content.
+- Browse results by book or in one continuous scrollable view.
+- Subtle sage highlighting and matching-entry counters.
+- Copy highlights with their author, title and original article URL.
+- Export individual books and articles as Markdown.
+- Obsidian-compatible YAML metadata in Markdown exports.
+- Existing frontmatter and personal notes preserved.
+- Improved keyboard navigation and search selection behavior.
+
+All search and export processing remains local.
+</description>
+            <enclosure url="https://github.com/TheCuriousProcrastinator/Sage-Highlights-Updates/releases/download/v0.5.0/Sage-Highlights-0.5.0.zip" length="3994665" type="application/octet-stream" sparkle:edSignature="P+C9XtUqLNwhDbHwD8yHygSLFgb+AmWLSrSFEvedxgnvpa4tF7GTWlRHy8xRpaxYfOkPskAJKi0dMvOcNICKDw==" />
+        </item>
+        <item>
             <title>0.4.3</title>
             <pubDate>Tue, 24 Nov 2026 08:21:06 -0500</pubDate>
             <sparkle:version>10</sparkle:version>
